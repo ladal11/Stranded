@@ -8,7 +8,7 @@ Stranded is a water-world survival game with procedurally generated islands.
 
 Unity version: 2019.4.6f
 
-Once you've cloned this repo and opened the project through Unity, you need to load the scene named "SampleScene" in Assets/Scenes folder.
+Once you've cloned this repo and opened the project through Unity, you need to load the scene named "SampleScene" in the Assets/Scenes folder.
 
 Current State:
 - Can generate new islands without any Environmental objects(trees, rocks, etc.)
